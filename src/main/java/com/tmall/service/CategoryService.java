@@ -1,10 +1,9 @@
 package com.tmall.service;
 
 import com.tmall.pojo.Category;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
-@Service
+
 public interface CategoryService {
     /**
      * 返回分类列表
